@@ -11,6 +11,7 @@ SwasthAI is an open-source, full-stack, software-based physiological health scre
 
 > **IMPORTANT CLINICAL DISCLAIMER**: SwasthAI is an academic research and software demonstration project designed strictly for routine personal wellness awareness and physiological signal processing exploration. It **DOES NOT** provide medical diagnosis, clinical evaluation, or treatment advice, and **DOES NOT** replace a licensed medical professional, stethoscope, electrocardiogram, or clinical diagnostic equipment.
 
+Live Demo : https://swasth-ai-zoby.onrender.com/
 ---
 
 ## Overview
